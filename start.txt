@@ -12,11 +12,8 @@ sixth line
 10 lines
 11 lines
 12 lines
-<<<<<<< HEAD
 12.8 lines
-=======
-12.5 lines
->>>>>>> new commit from newbranch
 13 lines
 13.5 lines
 14 lines
+15 Lines
