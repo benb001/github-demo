@@ -6,3 +6,4 @@ Bil added a second line
 Bil added a third line
 Bil added a fourth line
 Bil added a fifth line
+Bil added a 6th line
