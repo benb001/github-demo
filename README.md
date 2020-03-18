@@ -10,3 +10,4 @@ Bil added a 6th line
 Bil added a 7th line
 Bil added a 8th line
 Bil added a 9th line
+Bil added a new line
