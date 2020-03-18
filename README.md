@@ -11,3 +11,4 @@ Bil added a 7th line
 Bil added a 8th line
 Bil added a 9th line
 Bil added a new line
+New line for pull type
